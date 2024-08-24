@@ -10,4 +10,4 @@ some unfished item/block by there respective modder might also crash or corrupt 
 
 
 
--securitycraft block/security camera PARTIALSOFTLOCK (the camera only to is default key control even if the mod try to make you otherwise)
+-securitycraft block/security camera PARTIALSOFTLOCK (the camera only react to is default key control even if the mod try to make you otherwise)
