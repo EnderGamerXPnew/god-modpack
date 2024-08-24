@@ -2,7 +2,7 @@ it's recommended to the keep the modpack as he zip file or on he external drive 
 
 some unfished item/block by there respective modder might also crash or corrupt world here is the list of what i found bugie:
 
--ex rolloaster block/invisible rail CORRUPT (when placed make the current dimension file unreadable forcing you to reset the dimension in question by using world edit)
+-ex rolloaster block/invisible rail CORRUPT (when placed make the current dimension file became unreadable forcing you to reset the dimension in question by using world edit)
 
 
 
