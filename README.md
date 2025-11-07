@@ -14,4 +14,4 @@ some unfished item/block by there respective modder might also crash or corrupt 
 
 
 
--computeur craft/computeur and turtel CRASH+CORRUPT(cannot be converted into entity by archimed ships you risk your gpu by attemping to do it as well as corrupting your dimension)
+-computeur craft/computeur and turtel CORRUPT+Hardware at risk(cannot be converted into entity by archimed ships you risk your gpu by attemping to do it as well as corrupting your dimension)
